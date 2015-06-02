@@ -5,7 +5,9 @@ resources: 5
 ---
 
 # Git Flow
+## Lauren Here:
 
+(╯°□°）╯︵ ┻━┻
 ## Objectives
 
 * Get familiar with git syntax
